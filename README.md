@@ -1,7 +1,7 @@
 # JavaTutorial
 A tutorial to get you started with programming in java
 
-This tutorial contains the following examples:
+# This tutorial contains the following examples:
 
 Example1 : Hello world. Here you will understand how to write a simple class with a main function.
 Example2 : To understand how to use some of the primitive datatypes: int, double and boolean.
